@@ -1,5 +1,5 @@
 <!--
-Thank you for your pull request. Please review below requirements.
+Thank you for your pull request. Please review the below requirements.
 Bug fixes and new features should include tests.
 Contributors guide: https://github.com/umijs/umi/blob/master/CONTRIBUTING.md
 
@@ -16,7 +16,6 @@ Contributors guide: https://github.com/umijs/umi/blob/master/CONTRIBUTING.md
 - [ ] tests are included
 - [ ] documentation is changed or added
 - [ ] commit message follows commit guidelines
-
 
 ##### Description of change
 
